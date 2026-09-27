@@ -1,0 +1,11 @@
+{
+ "version": "v1",
+ "architecture": "conv(32s2-48-64-128) + dilated conv1d head(256) CTC, h32",
+ "hidden": 256,
+ "charset_sha1": "9c5abdff026f",
+ "step": 13500,
+ "val_exact": 0.948,
+ "val_cer": 0.0072,
+ "training_data": "ocr-crops v1.1 (textgen+render, DejaVu/STIX/Hershey, spacing modes)",
+ "trained": "2026-09-26 15:30"
+}

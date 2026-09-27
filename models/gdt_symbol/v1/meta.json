@@ -1,0 +1,27 @@
+{
+ "version": "v1",
+ "classes": [
+  "⌖",
+  "⏥",
+  "⏤",
+  "○",
+  "⌭",
+  "⌒",
+  "⌓",
+  "∠",
+  "⟂",
+  "∥",
+  "◎",
+  "⌯",
+  "↗",
+  "⌰",
+  "⌴",
+  "⌵",
+  "↧",
+  "none"
+ ],
+ "val_acc": 1.0,
+ "epoch": 45,
+ "trained": "2026-09-26 10:31",
+ "training_data": "rendered symbol cells (DejaVu/STIX glyphs + stroke drawings)"
+}
