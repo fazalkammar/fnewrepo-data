@@ -1,0 +1,30 @@
+NIST MBE PMI test cases (CTC 1-5, FTC 6-11) - licence evidence
+Retrieved: 2026-09-25
+
+1) Project download page
+   https://www.nist.gov/ctl/smart-connected-systems-division/smart-connected-manufacturing-systems-group/mbe-pmi-0
+   "The test cases, CAD models, and STEP files can be used without any restrictions. Their use in
+    other software or hardware products does not imply a recommendation or endorsement of those
+    products by NIST."
+   "We would appreciate acknowledgement if any of the test cases, CAD models, STEP files, or
+    screenshots of the models are used, however, the use of the NIST logo seen at the top of this
+    page is not allowed in promotional materials."
+
+2) README.txt inside NIST_MBE_PMI_CTC_Definitions.zip and NIST_MBE_PMI_FTC_Definitions.zip
+   (copies saved in docs/ctc/README.txt and docs/ftc/README.txt)
+   "This test system (test cases, CAD models, model verification and validation results) was developed
+    at the National Institute of Standards and Technology by employees of the Federal Government in the
+    course of their official duties. Pursuant to Title 17 Section 105 of the United States Code this test
+    system is not subject to copyright protection and is in the public domain."
+
+3) NIST copyright statement for non-SRD data/works
+   https://www.nist.gov/open/copyright-fair-use-and-licensing-statements-srd-data-software-and-technical-series-publications
+   Works of NIST employees are not subject to copyright in the US (17 U.S.C. 105); they "may be subject to
+   foreign copyright", and to that extent NIST grants a "non-exclusive irrevocable and unconditional right
+   to print, publish, prepare derivative works and distribute the NIST data ... on a royalty-free basis
+   throughout the world."
+
+Obligations we follow: acknowledge NIST as the source; never use the NIST logo; derived/modified works
+carry a note of what we changed.
+
+Manifest licence id: Public-Domain
