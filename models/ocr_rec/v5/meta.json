@@ -1,0 +1,12 @@
+{
+ "version": "v5",
+ "init": "v3",
+ "architecture": "conv(32s2-48-64-128) + dilated conv1d head(256) CTC, h32",
+ "hidden": 256,
+ "charset_sha1": "9c5abdff026f",
+ "step": 4500,
+ "val_exact": 0.9653,
+ "val_cer": 0.0049,
+ "training_data": "ocr-crops v3 (v2 + CAD-style datum feature symbols: square / isometric boxes) + bank 3d_v1 (11784 crops, 0.5)",
+ "trained": "2026-10-05 16:18"
+}
